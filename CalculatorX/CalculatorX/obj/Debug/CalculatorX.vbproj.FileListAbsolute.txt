@@ -1,1 +1,11 @@
 c:\users\bryanty\documents\visual studio 2013\Projects\CalculatorX\CalculatorX\bin\Debug\CalculatorX.exe.config
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\bin\Debug\CalculatorX.exe.config
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\bin\Debug\CalculatorX.exe
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\bin\Debug\CalculatorX.pdb
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\bin\Debug\CalculatorX.xml
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\obj\Debug\CalculatorX.main.resources
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\obj\Debug\CalculatorX.Resources.resources
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\obj\Debug\CalculatorX.vbproj.GenerateResource.Cache
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\obj\Debug\CalculatorX.exe
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\obj\Debug\CalculatorX.xml
+C:\Users\BRYANTY\Documents\GitHub\CalculatorX\CalculatorX\CalculatorX\obj\Debug\CalculatorX.pdb
